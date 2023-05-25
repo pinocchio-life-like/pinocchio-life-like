@@ -5,21 +5,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamfitsum&label=Profile%20views&color=0e75b6&style=flat" alt="iamfitsum" /> </p>
 
-<p align="left"> <a href="https://twitter.com/iamfitsum" target="blank"><img src="https://img.shields.io/twitter/follow/iamfitsum?logo=twitter&style=for-the-badge" alt="iamfitsum" /></a> </p>
-
 - 🔭 I’m currently working on **improving my development skills.**
 
 - 🌱 I’m currently learning **everything.**
 
 - 👯 I’m looking to collaborate on **exciting projects with people who have unique ideas.**
 
-- 👨‍💻 All of my projects are available at [https://www.iamfitsum.me/](https://www.iamfitsum.me/)
+<!-- - 👨‍💻 All of my projects are available at [https://www.iamfitsum.me/](https://www.iamfitsum.me/) -->
 
 - 💬 Ask me about anything, **would love to answer them.**
 
-- 📫 How to reach me **official.fitsum.mekonnen@gmail.com**
+- 📫 How to reach me **icbr19fl@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/fitsum-mekonnen/](https://www.linkedin.com/in/fitsum-mekonnen/)
+<!-- - 📄 Know about my experiences [https://www.linkedin.com/in/fitsum-mekonnen/](https://www.linkedin.com/in/fitsum-mekonnen/) -->
 
 - ⚡ Fun fact: **The only time I type fast is when coding – otherwise it’s hunt and peck!**
 
