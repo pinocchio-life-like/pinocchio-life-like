@@ -3,7 +3,7 @@ Hi,👋, I’m Eliyas Asefa FullStack Developer.
 
 #### I love building the real world products.👨‍💻
 - ✨ I’m currently working on different Coding Challenges
-- 🌱 I’m currently learning Backend Development
+- 🌱 I’m currently learning Scripting and Automation with Python
 - 👯 I’m looking to collaborate on open source projects
 - 🚀 How to reach me: icbr19fl@gmail.com
 
